@@ -1,0 +1,10 @@
+name = "TurboDistributions"
+uuid = "11f614af-4a9d-4a5e-b76a-60ba70088fe6"
+authors = ["Samuel Brand"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+
+[compat]
+Distributions = "0.25.117"
